@@ -1,4 +1,4 @@
-# OpenShort.link - The All-in-One Open Source Serverless URL Link Shortener. 100% on Cloudflare + 1 Click Install
+# OpenShort.link - The All-in-One Open Source Serverless URL Link Shortener. 100% on Cloudflare + 1 Click Install Only
 
 <div align="center">
 
